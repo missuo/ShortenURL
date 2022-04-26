@@ -5,11 +5,11 @@ A simple bash script to shorten URLs with [CPP.LI](https://cpp.li)
 ## Installation
 ### macOS
 ```shell
-wget -O cppli https://cpp.li/rwbq5 && chmod +x cppli && mv cppli /usr/local/bin/
+wget -O cppli cpp.li/rwbq5 && chmod +x cppli && mv cppli /usr/local/bin/
 ```
 ### Linux
 ```shell
-wget -O cppli https://cpp.li/rwbq5 && chmod +x cppli && mv cppli /usr//bin/
+wget -O cppli cpp.li/rwbq5 && chmod +x cppli && mv cppli /usr//bin/
 ```
 
 ## Usage
